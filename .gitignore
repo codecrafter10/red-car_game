@@ -1,0 +1,17 @@
+# Python
+*.pyc
+
+# Editors
+.idea
+.vscode
+
+# Coverage
+.coverage
+htmlcov/
+
+Pipfile.lock
+
+# Classroom setup
+classroom/credentials.json
+classroom/*.csv
+classroom/token.pickle
